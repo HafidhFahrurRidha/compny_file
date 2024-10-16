@@ -1,1 +1,1 @@
-# compny_file
+# Company_Profile
